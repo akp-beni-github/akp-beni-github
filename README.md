@@ -1,19 +1,5 @@
 # 🤓Akapoomwit Puangsricharern
 
-<!--
-**akp-beni-github/akp-beni-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## devops tools
 
@@ -41,25 +27,23 @@ Here are some ideas to get you started:
 
 #### Linux Virtualization Containerization
 
-- Harddisk snapshot/encryption/compression, Docker volume, Kube Persistent Volume , Kube Resource Allocation/ Provisioning VPA HPA cluster Autoscaler 
+- Hard-disk snapshot/encryption/compression, Docker volume, Kube Persistent Volume ,Kube Resource Allocation/ Provisioning VPA HPA cluster Autoscaler 
 
-#### Network
+#### Network Concepts
 
-- Basic OSI layer
+- Basic OSI layer (Encapsulation/ Incapsulation/ PDU segmentation)
 
-- HTTPs, TLS HANDSHAKE, Certification Terimation point
+- HTTPs, TLS three ways HANDSHAKE , Certification Terimation point (LBlayer4/layer7)
 
-- HTTPs in Service Mesh (Kube Cert Manager)
+- HTTPs in Cluster (Kube Cert manager)/ (Service mesh: Service Discovery/ Istio+Envoy/ ECS connect) 
 
 #### WebApp Concepts
 
 - REST API: basic design and protection
 
-- Basic caching
+- Basic caching 
 
-- Microservice concept: event driven architechture, api gateway 
-
-- Service mesh concept Istio
+- Microservice concept: event-driven architechture, (frontend+api gateway+microservice backend)
 
 ## Some of my Course Certs
 
