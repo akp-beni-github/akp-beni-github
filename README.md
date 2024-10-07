@@ -57,16 +57,15 @@ Full-Courses
 Lectures
 - CDN WAF/ ELB ALBKMS ACM/ EC2 ECS EKS/ NFS EBS EFS/ S3/ NACL SG/ RDS DynamoDB/ ACK SDK Controller/ Route 53 CloudMap
 
-#### Virtualization
-Lectures
-- Hard-disk snapshot/encryption/compression
-
-#### Linux& Kubernetes 
+#### Linux& Kubernetes& Virtualization 
 Full-Courses
 - kube resources basic: https://www.youtube.com/watch?v=X48VuDVv0do&t=3s
 
 Lectures
-- Docker volume, Kube Persistent Volume ,Kube Resource Allocation/ Provisioning VPA HPA cluster Autoscaler 
+- Linux file system
+- Hard-disk snapshot/encryption/compression
+- Docker volume, Kube Persistent Volume ,Kube Resource Allocation/ Provisioning VPA HPA cluster Autoscaler
+
 
 #### Observability
 Full-Courses
