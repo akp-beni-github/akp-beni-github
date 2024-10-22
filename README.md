@@ -58,6 +58,7 @@ Lectures
 #### Cloud
 Full-Courses 
 - AWS [Download PDF](<files/134_3_5755360_1718544996_AWS-Course-Completion-Certificate.pdf>)
+- GCP fundamental [Download PDF](<files/gcp-fundamental.pdf>)
 
 Lectures
 - CDN WAF/ ELB ALBKMS ACM/ EC2 ECS EKS/ NFS EBS EFS/ S3/ NACL SG/ RDS DynamoDB/ ACK SDK Controller/ Route 53 CloudMap
